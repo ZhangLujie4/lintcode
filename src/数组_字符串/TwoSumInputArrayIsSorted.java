@@ -4,7 +4,7 @@ package 数组_字符串;
  * @author Tori
  * @version V1.1.0
  * @date 2018-12-03 17:16
- * @description 以排序数组的，两数之和为某个值
+ * @description 167 以排序数组的，两数之和为某个值
  */
 
 public class TwoSumInputArrayIsSorted {

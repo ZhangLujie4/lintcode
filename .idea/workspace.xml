@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ab54fe2-9be1-469b-a468-5c743aaf4005" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/ContainsDuplicateIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/ReverseVowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组_字符串/WordPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组_字符串/InterSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组_字符串/InterSectionII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组_字符串/TopKFrequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组_字符串/TopKFrequence.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,31 +30,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContainsDuplicateII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组_字符串/ContainsDuplicateII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContainsDuplicateIII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组_字符串/ContainsDuplicateIII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="334">
-              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/数组_字符串/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
+            <state relative-caret-position="405">
               <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -78,29 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicates.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组_字符串/RemoveDuplicates.java">
+      <file leaf-file-name="MinimumSizeSubarraySum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/数组_字符串/MinimumSizeSubarraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RemoveElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组_字符串/RemoveElement.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MoveZeros.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/数组_字符串/MoveZeros.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="24" column="44" lean-forward="true" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="304">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -117,11 +72,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseVowel.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseVowel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/数组_字符串/ReverseVowel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
+            <state relative-caret-position="410">
+              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopKFrequence.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/数组_字符串/TopKFrequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/数组_字符串/TwoSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterSection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/数组_字符串/InterSection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="40" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InterSectionII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/数组_字符串/InterSectionII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="40" column="17" selection-start-line="19" selection-start-column="8" selection-end-line="40" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -165,6 +162,9 @@
         <option value="$PROJECT_DIR$/src/数组_字符串/MoveZeros.java" />
         <option value="$PROJECT_DIR$/src/数组_字符串/WordPattern.java" />
         <option value="$PROJECT_DIR$/src/数组_字符串/ReverseVowel.java" />
+        <option value="$PROJECT_DIR$/src/数组_字符串/TopKFrequence.java" />
+        <option value="$PROJECT_DIR$/src/数组_字符串/InterSection.java" />
+        <option value="$PROJECT_DIR$/src/数组_字符串/InterSectionII.java" />
       </list>
     </option>
   </component>
@@ -177,11 +177,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="11" />
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="777" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="31" />
+    <option name="y" value="27" />
+    <option name="width" value="1275" />
+    <option name="height" value="774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -238,9 +238,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseVowel">
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组_字符串.MoveZeros" />
+  <component name="RunManager" selected="Application.InterSectionII">
+    <configuration name="InterSection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组_字符串.InterSection" />
       <module name="lintcode" />
       <extension name="coverage">
         <pattern>
@@ -249,18 +249,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组_字符串.RemoveDuplicates" />
-      <module name="lintcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="数组_字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组_字符串.RemoveElement" />
+    <configuration name="InterSectionII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组_字符串.InterSectionII" />
       <module name="lintcode" />
       <extension name="coverage">
         <pattern>
@@ -271,6 +261,16 @@
     </configuration>
     <configuration name="ReverseVowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="数组_字符串.ReverseVowel" />
+      <module name="lintcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组_字符串.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TopKFrequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组_字符串.TopKFrequence" />
       <module name="lintcode" />
       <extension name="coverage">
         <pattern>
@@ -290,19 +290,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.RemoveDuplicates" />
-      <item itemvalue="Application.RemoveElement" />
-      <item itemvalue="Application.MoveZeros" />
       <item itemvalue="Application.WordPattern" />
       <item itemvalue="Application.ReverseVowel" />
+      <item itemvalue="Application.TopKFrequence" />
+      <item itemvalue="Application.InterSection" />
+      <item itemvalue="Application.InterSectionII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterSectionII" />
+        <item itemvalue="Application.InterSection" />
+        <item itemvalue="Application.TopKFrequence" />
         <item itemvalue="Application.ReverseVowel" />
         <item itemvalue="Application.WordPattern" />
-        <item itemvalue="Application.MoveZeros" />
-        <item itemvalue="Application.RemoveElement" />
-        <item itemvalue="Application.RemoveDuplicates" />
       </list>
     </recent_temporary>
   </component>
@@ -318,15 +318,15 @@
       <updated>1543800686091</updated>
       <workItem from="1543800690475" duration="9860000" />
       <workItem from="1543815295939" duration="17989000" />
-      <workItem from="1543902486237" duration="13197000" />
+      <workItem from="1543902486237" duration="23822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41046000" />
+    <option name="totallyTimeSpent" value="51671000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <frame x="31" y="27" width="1275" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -338,19 +338,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32551724" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32496306" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32827586" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32791728" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29159936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29278183" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39724138" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3958641" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -368,7 +368,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="16" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -529,13 +529,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组_字符串/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/数组_字符串/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -572,13 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组_字符串/MinimumSizeSubarraySum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -675,10 +661,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/WordPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/ValidAnagram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/数组_字符串/IsomorphicStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="65" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/MinimumSizeSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/TwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="34" lean-forward="true" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/TopKFrequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="45" lean-forward="true" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/ReverseVowel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -693,30 +727,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组_字符串/WordPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/InterSection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="334">
-          <caret line="30" column="20" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="272">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="40" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组_字符串/ValidAnagram.java">
+    <entry file="file://$PROJECT_DIR$/src/数组_字符串/InterSectionII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="338">
+          <caret line="40" column="17" selection-start-line="19" selection-start-column="8" selection-end-line="40" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/数组_字符串/ReverseVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
         </state>
       </provider>
     </entry>

@@ -18,6 +18,7 @@ public class ContainsDuplicateIII {
 
     public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
 
+        // 超出时间限制 ！！！！
         int n = nums.length;
         for (int i=0; i<n; i++) {
             for (int j=i+1; j<=i+k && j<n; j++) {
